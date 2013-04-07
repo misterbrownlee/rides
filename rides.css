@@ -1,0 +1,79 @@
+@CHARSET "UTF-8";
+
+/* rides.css */
+
+body {
+    font-family: serif;
+    color: black;
+    background-color: white;
+}
+
+img {
+    border: 0px;
+    margin: 1px auto;
+}
+
+a.headLink {
+	text-decoration: none;
+}
+
+#pageContent {
+	width: 850px;
+	margin-left: 20px;
+	border: 1px #666 solid;
+	padding: 15px 8px;
+}
+
+div.pageTitle {
+    font-size: 1.2em;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+div.subTitle {
+    font-size: 1.1em;
+    border-bottom: 1px solid #666;
+    margin-bottom: 5px;
+}
+div.photoBreak {
+    width: 820%px;
+    border: 1px gray solid;
+    padding: 5px;
+    text-align: center;
+}
+
+div.photoLeft {
+    border: 1px double grey;
+    float: left;
+    margin: 8px;
+    padding: 5px;
+    text-align: center;
+}
+
+div.photoRight {
+    border: 1px double grey;
+    float: right;
+    margin: 8px;
+    padding: 5px;
+    text-align: center;
+}
+
+div.clear {
+    height: 1px;
+    clear: both;
+}
+
+div.pageLink {
+    width: 250px;
+    border: 0px solid black;
+}
+
+.right {
+	float: right;
+}
+
+#copyleft {
+    font-size: smaller;
+    margin: 5px;
+    border: 0px solid blue;
+}
